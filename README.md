@@ -1,7 +1,8 @@
 <!-- markdownlint-disable MD013 MD024 MD001 MD045 -->
-# CrossAndroid font fix
+# [CrossAndroid](https://gitlab.com/Namnodorel/crossandroid) font fix
 
-Patched font images are generated using [2767mr/font-fix](https://github.com/2767mr/font-fix).
+Patched font images are generated using [2767mr/font-fix](https://github.com/2767mr/font-fix).  
+Fixes issues described here: https://gitlab.com/Namnodorel/crossandroid/-/issues/1
 
 ## I do NOT own the rights to the distributed font images!!!
 
